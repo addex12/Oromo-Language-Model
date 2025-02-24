@@ -1,7 +1,5 @@
 # Afaan Oromo-Language-Model
 
-# Afaan Oromo Translation Model
-
 ## Overview
 This repository provides a **machine translation model** that translates between **English** and **Afaan Oromo**. The model is based on the Hugging Face **transformers** library and uses pre-trained models that are fine-tuned on English ↔ Afaan Oromo datasets.
 
@@ -100,7 +98,7 @@ Contact
 If you have any questions, feel free to contact me:
 
     Name: Adugna Gizaw
-    Email: adugna.gizaw@flipperschools.com
+    Email: gizawadugna@gmail.com
 
 Acknowledgements
 
