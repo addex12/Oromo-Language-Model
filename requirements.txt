@@ -1,0 +1,20 @@
+# Essential Libraries
+numpy
+pandas
+torch
+transformers
+datasets
+sentencepiece
+
+# For Audio Processing
+soundfile
+librosa
+torchaudio
+
+# For Deep Learning (if using PyTorch)
+accelerate
+
+# Other Helpful Utilities
+tqdm
+scipy
+
